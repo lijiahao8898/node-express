@@ -1,0 +1,22 @@
+{
+  "name": "node-express",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lijiahao8898/node-express.git"
+  },
+  "author": "lijiahao8898",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lijiahao8898/node-express/issues"
+  },
+  "homepage": "https://github.com/lijiahao8898/node-express#readme",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
